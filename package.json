@@ -29,7 +29,7 @@
       "node": ">= 0.8.0"
     },
     "dependencies": {
-      "commander": "latest",
+      "commander": "8.0.0",
       "underscore": "latest",
       "shelljs": "latest",
       "debug": "latest"
